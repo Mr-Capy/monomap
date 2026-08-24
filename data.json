@@ -90,6 +90,22 @@
             "offsetY": 7,
             "font": "-",
             "owner": 1080458988593872936
+        },
+        {
+            "x": 20106,
+            "z": 20051,
+            "image": "custom.pin.png",
+            "imageAnchor": [
+                0.5,
+                1
+            ],
+            "imageScale": 0.2,
+            "text": "random glowstone platform",
+            "textColor": "white",
+            "offsetX": 0,
+            "offsetY": 7,
+            "font": "-",
+            "owner": 817400091627356196
         }
     ]
 }
