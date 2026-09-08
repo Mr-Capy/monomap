@@ -14,5 +14,5 @@ var UnminedMapProperties = {
     enableGrid: true,
     showGrid: true,
     centerX: 0,
-    centerZ: 300
+    centerZ: 0
 }
