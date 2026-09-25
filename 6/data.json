@@ -42,6 +42,22 @@
             "offsetY": 7,
             "font": "-",
             "owner": 817400091627356196
+        },
+        {
+            "x": 19804,
+            "z": 3428,
+            "image": "custom.pin.png",
+            "imageAnchor": [
+                0.5,
+                1
+            ],
+            "imageScale": 0.2,
+            "text": "Interesting Pink Sculpture (gravestone for a villager i murdered)",
+            "textColor": "white",
+            "offsetX": 0,
+            "offsetY": 7,
+            "font": "-",
+            "owner": 817400091627356196
         }
     ]
 }
