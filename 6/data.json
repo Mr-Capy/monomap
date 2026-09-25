@@ -26,6 +26,22 @@
             "offsetY": 7,
             "font": "-",
             "owner": 817400091627356196
+        },
+        {
+            "x": 22515,
+            "z": -5239,
+            "image": "custom.pin.png",
+            "imageAnchor": [
+                0.5,
+                1
+            ],
+            "imageScale": 0.2,
+            "text": "pale oak forest for anyone interested in traveling just a few thousand blocks",
+            "textColor": "white",
+            "offsetX": 0,
+            "offsetY": 7,
+            "font": "-",
+            "owner": 817400091627356196
         }
     ]
 }
