@@ -44,22 +44,6 @@
             "owner": 702265279618613298
         },
         {
-            "x": 100,
-            "z": 100,
-            "image": "custom.pin.png",
-            "imageAnchor": [
-                0.5,
-                1
-            ],
-            "imageScale": 0.2,
-            "text": "test",
-            "textColor": "white",
-            "offsetX": 0,
-            "offsetY": 7,
-            "font": "-",
-            "owner": 1173850534667624473
-        },
-        {
             "x": -100,
             "z": -100,
             "image": "custom.pin.png",
