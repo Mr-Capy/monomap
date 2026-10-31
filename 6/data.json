@@ -42,6 +42,22 @@
             "offsetY": 7,
             "font": "-",
             "owner": 702265279618613298
+        },
+        {
+            "x": -528,
+            "z": -110,
+            "image": "custom.pin.png",
+            "imageAnchor": [
+                0.5,
+                1
+            ],
+            "imageScale": 0.2,
+            "text": "edge of ice boat highway (as of 10/31/2026)",
+            "textColor": "white",
+            "offsetX": 0,
+            "offsetY": 7,
+            "font": "-",
+            "owner": 702265279618613298
         }
     ]
 }
