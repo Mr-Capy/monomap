@@ -1,0 +1,15 @@
+{
+    "isEnabled": true,
+    "markers": [
+        {
+            "x": 0,
+            "z": 0,
+            "image": "spawn_pin.png",
+            "imageAnchor": [
+                0.5,
+                1
+            ],
+            "imageScale": 0.15
+        }
+    ]
+}
