@@ -26,6 +26,38 @@
             "offsetY": 7,
             "font": "-",
             "owner": 1050383763122696283
+        },
+        {
+            "x": 2260,
+            "z": -375,
+            "image": "custom.pin.png",
+            "imageAnchor": [
+                0.5,
+                1
+            ],
+            "imageScale": 0.2,
+            "text": "bryah's house",
+            "textColor": "white",
+            "offsetX": 0,
+            "offsetY": 7,
+            "font": "-",
+            "owner": 1129899125157155067
+        },
+        {
+            "x": -1020,
+            "z": -1020,
+            "image": "custom.pin.png",
+            "imageAnchor": [
+                0.5,
+                1
+            ],
+            "imageScale": 0.2,
+            "text": "the 67",
+            "textColor": "white",
+            "offsetX": 0,
+            "offsetY": 7,
+            "font": "-",
+            "owner": 1129899125157155067
         }
     ]
 }
