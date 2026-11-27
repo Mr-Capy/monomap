@@ -7,7 +7,7 @@ var UnminedMapProperties = {
     minRegionX: -13,
     minRegionZ: -11,
     maxRegionX: 13,
-    maxRegionZ: 9,
+    maxRegionZ: 16,
     worldName: "Season 7",
     background: "",
     markers: new Array(),
