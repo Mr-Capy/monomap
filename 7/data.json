@@ -74,6 +74,22 @@
             "offsetY": 7,
             "font": "-",
             "owner": 1050383763122696283
+        },
+        {
+            "x": -560,
+            "z": 3023,
+            "image": "custom.pin.png",
+            "imageAnchor": [
+                0.5,
+                1
+            ],
+            "imageScale": 0.2,
+            "text": "Est. location of third Anti-Luke chest",
+            "textColor": "white",
+            "offsetX": 0,
+            "offsetY": 7,
+            "font": "-",
+            "owner": 1050383763122696283
         }
     ]
 }
