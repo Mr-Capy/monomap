@@ -90,6 +90,22 @@
             "offsetY": 7,
             "font": "-",
             "owner": 1050383763122696283
+        },
+        {
+            "x": -670,
+            "z": -670,
+            "image": "custom.pin.png",
+            "imageAnchor": [
+                0.5,
+                1
+            ],
+            "imageScale": 0.2,
+            "text": "my secret base bc i don\u2019t want it any morr",
+            "textColor": "white",
+            "offsetX": 0,
+            "offsetY": 7,
+            "font": "-",
+            "owner": 817400091627356196
         }
     ]
 }
