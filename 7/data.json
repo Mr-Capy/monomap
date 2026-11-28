@@ -58,6 +58,22 @@
             "offsetY": 7,
             "font": "-",
             "owner": 1129899125157155067
+        },
+        {
+            "x": -390,
+            "z": 3512,
+            "image": "custom.pin.png",
+            "imageAnchor": [
+                0.5,
+                1
+            ],
+            "imageScale": 0.2,
+            "text": "Est. location of second Anti-Luke chest",
+            "textColor": "white",
+            "offsetX": 0,
+            "offsetY": 7,
+            "font": "-",
+            "owner": 1050383763122696283
         }
     ]
 }
